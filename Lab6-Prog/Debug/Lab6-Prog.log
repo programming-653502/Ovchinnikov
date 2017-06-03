@@ -1,0 +1,7 @@
+﻿  BST.cpp
+  Создание кода...
+c:\users\msi\desktop\projects\lab6-prog\lab6-prog\bst.cpp(145): warning C4715: BST::ReturnNodePrivate: значение возвращается не при всех путях выполнения
+  Пропуск... (изменения не обнаружены)
+  Lab6-Prog.cpp
+  Lab6-Prog.vcxproj -> C:\Users\MSI\Desktop\projects\Lab6-Prog\Debug\Lab6-Prog.exe
+  Lab6-Prog.vcxproj -> C:\Users\MSI\Desktop\projects\Lab6-Prog\Debug\Lab6-Prog.pdb (Full PDB)
