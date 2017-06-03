@@ -1,0 +1,5 @@
+Children_BT 2
+what_value_of_a_will_be_at_the_end_of_cycle_for(int_a_=_0;_a_<_10;_a++)_{} 9
+what_hight_of_BT_with_elements_5_4_2 2
+is_it_ballanced_tree_5_6_7_8_1)yes_2)no 2
+is_it_full_BT_5_6_1)yes_2)no 2
